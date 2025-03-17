@@ -8,9 +8,9 @@
 
 ### Team Members & Tasks
 
-- **[Your Name]** - Backend Development (Node.js, Express.js, PostgreSQL integration, CRUD operations)
-- **[Team Member 2]** - Frontend Development (EJS Templating, Bootstrap UI Design, Form Validation)
-- **[Team Member 3]** - Database Management & Documentation (PostgreSQL schema design, Query Optimization, Error Handling, README Documentation)
+- **[Jumi Pham]** - Frontend Development Initial Page + Styling
+- **[Monica Nguyen]** - Frontend Development Update Page + Styling
+- **[Daniel Der]** - Database Management & Documentation (PostgreSQL schema design, Query Optimization, Error Handling, README Documentation)
 
 ## How to Run the Application Locally
 
